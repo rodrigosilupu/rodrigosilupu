@@ -1,8 +1,6 @@
 
-<h2> Hi, I'm Rodrigo Silupú! 👋  <h2>
- 
 ### About me
-I'm an economics student at Pontifical Catholic University of Peru. 
+Hi, I'm Rodrigo Silupú! I'm an economics student at Pontifical Catholic University of Peru. 
 
 I work as Research Assistant for Mario Tello (Pontifical Catholic University of Peru), David Mayorga (Research Center of the Universidad del Pacifico) and Ronald Rivas (Canisius College).
  
