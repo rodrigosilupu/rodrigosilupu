@@ -8,7 +8,7 @@
 
 
 #### About me 
-I'm an economics student at Pontifical Catholic University of Peru. I work as Research Assistant for Rafael Novella (BID)
+I'm an economics student at Pontifical Catholic University of Peru. I work as Research Assistant for Equilibrium SDC 
 
 Here, you'll find my main coding projects. Feel free to contact me if you've any question!
   
