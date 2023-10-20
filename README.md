@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rodrigo Silupú Peñaranda</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Silupú </h1>
 <h3 align="center">A passionate data analyst from Peru, transitioning to become a Data Scientist</h3>
 
 
