@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Rodrigo Silupú!</h2>
+<h2> Hi, I'm Rodrigo Silupu!</h2>
 
 [![Twitter: rodrigosilupu](https://img.shields.io/twitter/follow/rodrigosilupu?style=social)](https://twitter.com/PenarandaSilupu)
 [![Linkedin: rodrigosilupu](https://img.shields.io/badge/-rodrigosilupu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silupurodrigo/)](https://www.linkedin.com/in/silupurodrigo/)
