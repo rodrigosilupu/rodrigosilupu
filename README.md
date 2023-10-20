@@ -8,7 +8,7 @@
 
 
 #### About me 
-I'm an economics student at Pontifical Catholic University of Peru. I work as Research Assistant for Equilibrium SDC 
+Holding a degree in Economics from the Pontifical Catholic University of Peru, I am currently part of the Quantitative Team at Equilibrium SDC, where I am responsible for data collection, data analysis, report writing, and supporting client presentations. I possess the Data Analyst Professional Certificate (V2), as well as a specialization in Web Scraping. I have strong proficiency in statistical software (Stata and SPSS), in geographic information system software (ArcGIS and ArcGIS Pro), and advanced skills in programming languages (Python, R, Matlab) and data query languages (SQL). Furthermore, I have work experience in the private sector as a Research Assistant at the Research Center of the University of the Pacific and the Pontifical Catholic University of Peru, where I participated in projects selected by FONDECYT, CIES, IDB, and CAN.
 
 Here, you'll find my main coding projects. Feel free to contact me if you've any question!
   
