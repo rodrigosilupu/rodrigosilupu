@@ -9,9 +9,9 @@ Holding a degree in Economics from Pontificia Universidad Católica del Perú, I
 Here, you'll find my main coding projects. Feel free to contact me if you've any question!
 
 - 📫 How to reach me:
-   - **silupu.rodrigo@gmail.com**
-   - **rodrigo.silupu@pucp.edu.pe**
-   - **rsilupu@equilibriumbdc.com**
+   - [**silupu.rodrigo@gmail.com**](mailto:silupu.rodrigo@gmail.com)
+   - [**rodrigo.silupu@pucp.edu.pe**](mailto:silupu.rodrigo@gmail.com)
+   - [**rsilupu@equilibriumbdc.com**](mailto:silupu.rodrigo@gmail.com)
 
 <p align="left"> <a href="https://twitter.com/@rodrigosilupu" target="blank"><img src="https://img.shields.io/twitter/follow/@rodrigosilupu?logo=twitter&style=for-the-badge" alt="@rodrigosilupu" /></a> </p>
 
