@@ -11,7 +11,8 @@ Here, you'll find my main coding projects. Feel free to contact me if you've any
 - 📫 How to reach me:
    - **silupu.rodrigo@gmail.com**
    - **rodrigo.silupu@pucp.edu.pe**
-   - **rsilupu@equilibriumbdc.com**
+   - **silupu.rodrigo@utec.edu.pe**
+
 
 <p align="left"> <a href="https://twitter.com/@rodrigosilupu" target="blank"><img src="https://img.shields.io/twitter/follow/@rodrigosilupu?logo=twitter&style=for-the-badge" alt="@rodrigosilupu" /></a> </p>
 
